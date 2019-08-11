@@ -1,0 +1,7 @@
+# Connect DataBase MySQL Only
+host: localhost
+port: 3306
+database: minecraft
+table: userwhere
+username: root
+password: ""
